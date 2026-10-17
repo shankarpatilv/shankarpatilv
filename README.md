@@ -25,7 +25,7 @@ I want a new-grad or early-career software engineer role on a team that ships re
 
 ## Outside of work
 
-I write [bigo.notes](https://bigonotes.vercel.app/), a free study site for new graduates. It has notes on data structures and algorithms, CS fundamentals, and system design, and I wrote every note myself.
+I write [bigonotes](https://bigonotes.com/), a free study site for new graduates. It has notes on data structures and algorithms, CS fundamentals, and system design, and I wrote every note myself.
 
 I also like competitive programming and solve problems on [LeetCode](https://leetcode.com/u/Slazzon/). And I cook, but I am still a beginner. My kitchen gets more retries than my code.
 
